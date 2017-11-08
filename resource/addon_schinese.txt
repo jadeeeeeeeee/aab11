@@ -1,0 +1,8 @@
+"lang"
+{
+	"Language"		"SChinese"
+	"Tokens"
+	{		
+		"addon_game_name"			"AAB"
+	}
+}
