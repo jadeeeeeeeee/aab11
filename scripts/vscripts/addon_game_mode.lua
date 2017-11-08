@@ -7,8 +7,6 @@
 -- requeire 机制
 
 
-
-
 require ('playerinit')
 tem_flag = 0
 
