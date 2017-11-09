@@ -12,5 +12,6 @@
 		"Models"                    "models\heroes\nerubian_assassin\nerubian_assassin.vmdl"
 		"StatusHealth"				"1"		// Base health.
 		"MovementTurnRate"          "1"     //转身速度
-	}
+		
+	} 
 }
